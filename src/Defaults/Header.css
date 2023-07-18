@@ -1,0 +1,60 @@
+.Header {
+    height: 8rem;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#Logo-holder{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+#logo-text {
+    font-family: 'Inter', sans-serif;
+    color: white;
+    font-weight: 200;
+}
+
+#logo-text #fremont{
+    color: whLogote;
+    font-weight: 200;
+    padding: 0;
+    margin: 0;
+}
+
+.Logo {
+    height: 4rem;
+    padding-left: 1rem;
+    width: auto;
+    padding-right: 1rem;
+}
+
+#nav-link-holder {
+    overflow: hidden;
+    list-style-type: none;
+    left: 100;
+}
+
+#nav-link-holder .nav-link{
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+#nav-link-holder .nav-link a {
+    color: white;
+    text-decoration: none;
+    font-size: medium;
+}
+
+
+

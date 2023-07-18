@@ -1,0 +1,134 @@
+main {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+#top{
+    background: linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgb(255, 71, 71) 100%);
+}
+
+#what-is-scioly{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 0em;
+}
+
+#title{
+    font-family: 'Inter', sans-serif;
+    font-size: 100px;
+    padding-bottom: 0em;
+    align-items: center;
+    width: 50%;
+}
+
+#scioly-symbol{
+    width: 40%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#science{
+    padding:0;
+    margin:0;
+    text-align: center;
+    color:white;
+}
+
+#science-olympiad {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background: -webkit-linear-gradient(#ffffff,#ff3b38);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    /* text-align: center; */
+}
+
+#who-are-we{
+    padding-bottom: 2em; 
+    text-align: left;
+    padding-left: 10%;
+    padding-right: 10%;
+    /* width: auto; */
+    font-family: 'Inter', sans-serif;
+}
+
+#scioly-button{
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;;
+    font-size: large;
+    border-radius: 0.3rem;
+    margin-bottom: 5em;
+}
+
+#team-pic{
+    width: 95%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+}
+
+#wiki-info{
+    font-family: 'Inter', sans-serif;
+    
+    background: linear-gradient(0deg, rgba(255,
+        71,
+        71) 0%, rgba(255, 255, 255) 100%);
+}
+
+#wiki-access{
+    color:#ff3b38;
+    text-align: center;
+}
+
+#wiki-split{
+    display: flex;
+    align-items: center;
+}
+
+#red-team{
+width: 50%;
+text-align: center;
+}
+
+#white-team{
+width: 50%;
+text-align: center;
+}
+
+#white-team a{
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    font-size: large;
+    border-radius: 0.3rem;
+    margin-bottom: 5em;
+}
+
+#red-team a {
+    background-color: red;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    font-size: large;
+    border-radius: 0.3rem;
+    margin-bottom: 5em;
+}
