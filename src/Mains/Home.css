@@ -40,7 +40,6 @@ main {
     margin: 0;
     text-align: center;
     background: -webkit-linear-gradient(#ffffff,#ff3b38);
-    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     /* text-align: center; */
 }
