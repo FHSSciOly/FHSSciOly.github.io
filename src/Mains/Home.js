@@ -10,7 +10,8 @@ function Home() {
         <div id="top">
           <div id="what-is-scioly">
             <h1 id="title">
-              Fremont <p id="science-olympiad">Science Olympiad</p>
+              Fremont 
+              <p id="science-olympiad">Science Olympiad</p>
             </h1>
 
             {/* <p id="who-are-we">
