@@ -10,7 +10,7 @@ function Home() {
         <div id="top">
           <div id="what-is-scioly">
             <h1 id="title">
-              Fremont 
+              Fremont
               <p id="science-olympiad">Science Olympiad</p>
             </h1>
 
@@ -27,7 +27,11 @@ function Home() {
                 advanced levels and classes, and ultimately setting them toward
                 success in their field(s) of interest.
               </p> */}
-            <img src="../SciOlySymbol.png" id="scioly-symbol"></img>
+            <img
+              src="../SciOlySymbol.png"
+              id="scioly-symbol"
+              alt="Sci Oly Symbol"
+            ></img>
           </div>
           <p id="who-are-we">
             The Fremont High School Science Olympiad program strives to be an
@@ -36,12 +40,21 @@ function Home() {
             teamwork, mentorship, leadership, research, learning, and
             competition.
           </p>
-          <a href="https://www.soinc.org/" target="_blank" id="scioly-button">
+          <a
+            href="https://www.soinc.org/"
+            target="_blank"
+            rel="noreferrer"
+            id="scioly-button"
+          >
             More about SciOly
           </a>
         </div>
         <div>
-          <img src="https://via.placeholder.com/800x400" id="team-pic"></img>
+          <img
+            src="https://via.placeholder.com/800x400"
+            id="team-pic"
+            alt="place holder"
+          ></img>
         </div>
 
         <div id="wiki-info">
@@ -57,6 +70,7 @@ function Home() {
                 href="https://www.soinc.org/"
                 target="_blank"
                 id="scioly-button"
+                rel="noreferrer"
               >
                 Fremont Red WIKI
               </a>
@@ -67,6 +81,7 @@ function Home() {
                 href="https://www.soinc.org/"
                 target="_blank"
                 id="scioly-button"
+                rel="noreferrer"
               >
                 Fremont White WIKI
               </a>
