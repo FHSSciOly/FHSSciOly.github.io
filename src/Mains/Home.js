@@ -1,7 +1,7 @@
 import "./Home.css";
 import Header from "../Defaults/Header";
 import "../fonts.css";
-
+import teamPhoto from "../Images/IMG_1754 (1) 2.jpg"
 function Home() {
   return (
     <>
@@ -50,11 +50,7 @@ function Home() {
           </a>
         </div>
         <div>
-          <img
-            src="https://via.placeholder.com/800x400"
-            id="team-pic"
-            alt="place holder"
-          ></img>
+          <img src={teamPhoto} id="team-pic" alt="place holder"></img>
         </div>
 
         <div id="wiki-info">
