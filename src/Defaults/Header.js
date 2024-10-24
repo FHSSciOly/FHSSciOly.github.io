@@ -1,26 +1,33 @@
 import "./Header.css";
 import "../fonts.css";
+import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
+import AboutUs from "../Mains/AboutUs"
+import Home from "../Mains/Home.js"
+
 
 function Header() {
   return (
     <div className="Header">
       <a href="../Mains/Home.js">
         <div id="Logo-holder">
-          <img src="../logo.png" className="Logo"></img>
+        <img src="../logo.png" alt="" className="Logo" />
           <h2 id="logo-text">
             <div id="fremont">Fremont High's</div> Science Olympiad
           </h2>
         </div>
       </a>
+
       <ul id="nav-link-holder">
         <li className="nav-link">
-          <a href="#">Home</a>
+        <a href="/">Home</a>
+
         </li>
         <li className="nav-link">
-          <a href="#">About Us</a>
+        <a href="/about">About Us</a>
+
         </li>
         <li className="nav-link">
-          <a href="#">Teams</a>
+          <a href="/timeline">Timeline</a>
         </li>
       </ul>
     </div>

@@ -1,7 +1,7 @@
 import "./Home.css";
 import Header from "../Defaults/Header";
 import "../fonts.css";
-import teamPhoto from "../Images/IMG_1754 (1) 2.jpg"
+import teamPhoto from "../Images/homeImage.jpg"
 function Home() {
   return (
     <>
@@ -14,19 +14,6 @@ function Home() {
               <p id="science-olympiad">Science Olympiad</p>
             </h1>
 
-            {/* <p id="who-are-we">
-                The Fremont High School Science Olympiad program strives to be
-                an “umbrella” organization whose mission is to engage students
-                and grow their passion for science and various STEM disciplines
-                through teamwork, mentorship, leadership, research, learning,
-                and competition. SciOly is a great platform to help students in
-                our school explore different exciting STEM-related fields,
-                discover their specific interests, and advance in them. Besides
-                expanding their knowledge, this is a great opportunity to boost
-                members' grades and college applications, pushing them to more
-                advanced levels and classes, and ultimately setting them toward
-                success in their field(s) of interest.
-              </p> */}
             <img
               src="../SciOlySymbol.png"
               id="scioly-symbol"
