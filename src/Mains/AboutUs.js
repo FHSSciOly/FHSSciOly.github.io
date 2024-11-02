@@ -8,7 +8,7 @@ function AboutUs() {
         <>
         <Header></Header>
         <div className="AboutUs">
-            <img src={about_us} alt="about us image"></img>
+            <img src={about_us} alt="this is the about us image"></img>
         </div>
         </>
     )
