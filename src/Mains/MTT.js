@@ -22,7 +22,7 @@ function MTT() {
           This is the leadership behind the team. 
          </h1>
          {/* Add images for each person after */}
-         <h2>Brian - President</h2>
+         <h2>Brian - President and Founder</h2>
          <h2>Aarushi - Vice President</h2>
          <h2>Lakshmi - Vice President</h2>
          <h2>Kalash - Officer of Events</h2>
