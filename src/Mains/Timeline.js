@@ -4,17 +4,70 @@ import "../fonts.css";
 import time_line from '/Users/sid/Documents/Programming/FHSSciOly.github.io/src/Images/timeline.jpg';
 
 function Timeline() {
+
     return (
         <>
         <Header></Header>
-        
-        <div className="AboutUs">
+        {/* <img src={about_us} alt="about us info image"></img> */}
+        <main>
+        <div id="top">
+          <div id="what-is-scioly">
+            {/* <h1 id="title">
+              Fremont
+              <p id="science-olympiad">Science Olympiad</p>
+            </h1> */}
+
             <img src={time_line} alt="our milestones image"></img>
-            <h1>These are our Milesotones.</h1>
-            <h2>With the 22-23 year being our first full season after COVID, we've grown a lot and were able to establish a meaningful presence in our school community.</h2>
+          </div>
+          <h1>These are our Milesotones.</h1>
+          <h2>With the 22-23 year being our first full season after COVID, we've grown a lot and were able to establish a meaningful presence in our school community in the past four years.</h2>
+          {/* <a
+            href="https://www.soinc.org/"
+            target="_blank"
+            rel="noreferrer"
+            id="scioly-button"
+          >
+            More about SciOly
+          </a> */}
         </div>
+       
+
+        {/* <div id="wiki-info">
+          <h1 id="wiki-access">WIKI Access</h1>
+          <p>
+            Here are the WIKI's from our Two teams, Fremont White and Fremont
+            Red
+          </p>
+          <div id="wiki-split">
+            <div id="red-team">
+              <p class="description">Fremont Red team</p>
+              <a
+                href="https://www.soinc.org/"
+                target="_blank"
+                id="scioly-button"
+                rel="noreferrer"
+              >
+                Fremont Red WIKI
+              </a>
+            </div>
+            <div id="white-team">
+              <p class="description">Fremont White Team</p>
+              <a
+                href="https://www.soinc.org/"
+                target="_blank"
+                id="scioly-button"
+                rel="noreferrer"
+              >
+                Fremont White WIKI
+              </a>
+            </div>
+          </div>
+        </div> */}
+
+        {/* TODO: Add information about how to get to the wiki*/}
+      </main>
         </>
-    )
+    );
 }
 
 export default Timeline;

@@ -43,32 +43,25 @@ function Home() {
         <div id="wiki-info">
           <h1 id="wiki-access">WIKI Access</h1>
           <p>
-            Here are the WIKI's from our Two teams, Fremont White and Fremont
-            Red
+            Here are the WIKI's for our team in total, Fremont Red, White, and Fremont
+            Black
           </p>
           <div id="wiki-split">
             <div id="red-team">
-              <p class="description">Fremont Red team</p>
-              <a
-                href="https://www.soinc.org/"
-                target="_blank"
-                id="scioly-button"
-                rel="noreferrer"
-              >
-                Fremont Red WIKI
-              </a>
+              {/* <p class="description">Fremont Red team</p> */}
+              <ul id="nav-link-holder">
+              <li className="nav-link">
+              <a href="/meettheteam">Fremont Team WIKI</a>
+              </li>
+              </ul>
             </div>
-            <div id="white-team">
-              <p class="description">Fremont White Team</p>
-              <a
-                href="https://www.soinc.org/"
-                target="_blank"
-                id="scioly-button"
-                rel="noreferrer"
-              >
-                Fremont White WIKI
-              </a>
-            </div>
+            {/* <div id="white-team">
+                <ul id="nav-link-holder">
+                 <li className="nav-link">
+                 <a href="/meettheteam">Fremont White WIKI</a>
+                 </li>
+               </ul>
+            </div> */}
           </div>
         </div>
 

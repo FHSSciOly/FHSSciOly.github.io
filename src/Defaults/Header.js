@@ -24,10 +24,26 @@ function Header() {
         </li>
         <li className="nav-link">
         <a href="/about">About Us</a>
-
         </li>
+
         <li className="nav-link">
           <a href="/timeline">Timeline</a>
+        </li>
+
+        <li className="nav-link">
+          <a href="/gallery">Gallery</a>
+        </li>
+
+        <li className="nav-link">
+          <a href="/contactus">Contact Us</a>
+        </li>
+
+        <li className="nav-link">
+          <a href="/meettheteam">Meet The Team</a>
+        </li>
+
+        <li className="nav-link">
+          <a href="/events">Events</a>
         </li>
       </ul>
     </div>
