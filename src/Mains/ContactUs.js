@@ -14,7 +14,7 @@ function ContactUs() {
           <h2>Gmail: fremonthighscioly@gmail.com</h2>
           <h2>Instagram: @fremont_science_olympiad</h2>
           
-          <form action="https://formsubmit.co/sidvanamala@gmail.com"  method="POST">
+          <form action="https://formsubmit.co/fremonthighscioly@gmail.com"  method="POST">
             <textarea type="email" name="email" placeholder="Email Address" required></textarea>
             <input type="hidden" name = "_next" value="../Home.js" ></input>
             <textarea id="tallerTextarea" name="tallerTextarea" cols="50" placeholder="Message" required></textarea>
