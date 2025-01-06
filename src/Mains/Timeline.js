@@ -1,7 +1,7 @@
 import "./AboutUs.css";
 import Header from "../Defaults/Header";
 import "../fonts.css";
-import time_line from '/Users/sid/Documents/Programming/FHSSciOly.github.io/src/Images/timeline.jpg';
+import time_line from '../Images/timeline.jpg';
 
 function Timeline() {
 

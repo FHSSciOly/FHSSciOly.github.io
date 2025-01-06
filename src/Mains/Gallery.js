@@ -1,7 +1,7 @@
 import "./Gallery.css";
 import Header from "../Defaults/Header";
 import "../fonts.css";
-import about_us from '/Users/sid/Documents/Programming/FHSSciOly.github.io/src/Images/SciolyTeam.jpg';
+import about_us from '../Images/SciolyTeam.jpg';
 
 function Gallery() {
     return (
