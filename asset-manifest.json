@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.fe19da2b.css",
-    "main.js": "/static/js/main.7d28eb63.js",
+    "main.js": "/static/js/main.17f471c4.js",
     "static/js/787.a4b50278.chunk.js": "/static/js/787.a4b50278.chunk.js",
     "static/media/homeImage.jpg": "/static/media/homeImage.1ab32c544a968999287e.jpg",
     "static/media/SciolyTeam.jpg": "/static/media/SciolyTeam.2200be9f7129d35511eb.jpg",
     "static/media/timeline.jpg": "/static/media/timeline.a49a9cd44a8268a2e563.jpg",
     "index.html": "/index.html",
     "main.fe19da2b.css.map": "/static/css/main.fe19da2b.css.map",
-    "main.7d28eb63.js.map": "/static/js/main.7d28eb63.js.map",
+    "main.17f471c4.js.map": "/static/js/main.17f471c4.js.map",
     "787.a4b50278.chunk.js.map": "/static/js/787.a4b50278.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe19da2b.css",
-    "static/js/main.7d28eb63.js"
+    "static/js/main.17f471c4.js"
   ]
 }
