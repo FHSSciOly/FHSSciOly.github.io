@@ -6,6 +6,7 @@ import photo1 from '/Users/sid/Documents/Programming/FHSSciOly.github.io/src/Ima
 import photo2 from '/Users/sid/Documents/Programming/FHSSciOly.github.io/src/Images/Photo2.jpg';
 import photo3 from '/Users/sid/Documents/Programming/FHSSciOly.github.io/src/Images/Photo3.jpg';
 
+import about_us from '../Images/SciolyTeam.jpg';
 
 function Gallery() {
     return (

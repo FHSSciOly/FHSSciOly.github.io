@@ -1,7 +1,6 @@
 import "./MTT.css";
 import Header from "../Defaults/Header";
 import "../fonts.css";
-// import about_us from '/Users/sid/Documents/Programming/FHSSciOly.github.io/src/Images/SciolyTeam.jpg';
 
 function MTT() {
     return (
