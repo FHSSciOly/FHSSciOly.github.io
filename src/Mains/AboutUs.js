@@ -26,9 +26,8 @@ const AboutUs = () => {
           <h2 id="who-are-we">
           The Fremont High School Science Olympiad program is a 
 student-led organization founded in 2021. It strives to be an “umbrella” organization 
-whose mission is to engage students and grow their passion for science and various STEM disciplines through teamwork, mentorship, leadership, research, learning, and competition. SciOly is a great platform to help students in our school explore different exciting STEM-related fields, discover their specific interests, and advance in them. our program makes stem opportunities more accessible for our diverse student body, promoting academic growth & pushing members to more advanced levels and classes; ultimately setting them toward excellence & success in their field(s) of interest.
-Thanks to the FUHS Foundation's generous support, we were able to equip the teams with vital educational resources such as building materials, chemicals & equipment for experiments/labs, textbooks, registration for SciOly tournaments, and other Science Olympiad essentials - allowing our Fremont students to strive and succeed. 
-          </h2>
+whose mission is to engage students and grow their passion for science and various STEM disciplines through teamwork, mentorship, leadership, research, learning, and competition. SciOly is a great platform to help students in our school explore different exciting STEM-related fields, discover their specific interests, and advance in them. Our program makes stem opportunities more accessible for our diverse student body, promoting academic growth & pushing members to more advanced levels and classes; ultimately setting them toward excellence & success in their field(s) of interest.
+</h2>
           <h1>
           Thanks to the FUHS Foundation's generous support, we were able to equip the teams with vital educational resources such as building materials, chemicals & equipment for experiments/labs, textbooks, registration for SciOly tournaments, and other Science Olympiad essentials - allowing our Fremont students to strive and succeed. 
           </h1>

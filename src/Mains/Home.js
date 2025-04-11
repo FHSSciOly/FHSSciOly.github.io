@@ -51,12 +51,12 @@ function Home() {
               {/* <p class="description">Fremont Red team</p> */}
               <ul id="nav-link-holder">
               <li className="nav-link">
-              <a href="/meettheteam">Fremont Team WIKI</a>
+              <a href="/about">Fremont Team WIKI</a>
               </li>
               </ul>
             </div>
             {/* <div id="white-team">
-                <ul id="nav-link-holder">
+                <ul id="nav-link-holder">r
                  <li className="nav-link">
                  <a href="/meettheteam">Fremont White WIKI</a>
                  </li>

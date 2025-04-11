@@ -20,6 +20,12 @@ function Events() {
           <h1>
           Click on the events below to get more info
           </h1>
+          <a href="https://drive.google.com/drive/u/5/folders/0AMVJ9tvGaq6AUk9PVA" target="_blank" rel="noopener noreferrer">
+            <font color = "black" size="6">
+            Click this to view our past resources/notes.
+            </font>
+           </a>
+            <h2></h2>
           <a href="https://www.soinc.org/anatomy-and-physiology-c" target="_blank" rel="noopener noreferrer">
             <font color = "black" size="6">
             1. Anatomy and Physiology

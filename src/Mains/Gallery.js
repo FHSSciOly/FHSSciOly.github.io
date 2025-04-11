@@ -2,6 +2,10 @@ import "./Gallery.css";
 import Header from "../Defaults/Header";
 import "../fonts.css";
 import about_us from '/Users/sid/Documents/Programming/FHSSciOly.github.io/src/Images/SciolyTeam.jpg';
+import photo1 from '/Users/sid/Documents/Programming/FHSSciOly.github.io/src/Images/Photo1.jpg';
+import photo2 from '/Users/sid/Documents/Programming/FHSSciOly.github.io/src/Images/Photo2.jpg';
+import photo3 from '/Users/sid/Documents/Programming/FHSSciOly.github.io/src/Images/Photo3.jpg';
+
 
 function Gallery() {
     return (
@@ -19,6 +23,9 @@ function Gallery() {
           </div>
           <h1>These are our Photos and Gallary page with all photos  of competitions and our progressions.</h1>
           <img src={about_us} alt="our milestones image"></img>
+          <img src={photo1} alt="our milestones image"></img>
+          <img src={photo2} alt="our milestones image"></img>
+          <img src={photo3} alt="our milestones image"></img>
           {/* <a
             href="https://www.soinc.org/"
             target="_blank"
