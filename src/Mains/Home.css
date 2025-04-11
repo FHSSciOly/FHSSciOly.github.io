@@ -96,7 +96,7 @@ main {
 }
 
 #red-team{
-width: 50%;
+width: 100%;
 text-align: center;
 }
 
@@ -133,4 +133,6 @@ text-align: center;
     font-size: large;
     border-radius: 0.3rem;
     margin-bottom: 5em;
+    -ms-transform: translate(300%, 300%);
+    transform: translate(285%, 10%);
 }

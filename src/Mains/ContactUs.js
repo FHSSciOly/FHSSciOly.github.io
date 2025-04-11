@@ -9,6 +9,7 @@ function ContactUs() {
         {/* <img src={about_us} alt="about us info image"></img> */}
         <main>
         <div id="top">
+          
           <h1>This is our contact information. Use the below to make a direct message to us. </h1>
           <h2>Gmail: fremonthighscioly@gmail.com</h2>
           <h2>Instagram: @fremont_science_olympiad</h2>

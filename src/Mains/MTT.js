@@ -25,7 +25,7 @@ function MTT() {
          <h2>Aarushi - Vice President</h2>
          <h2>Lakshmi - Vice President</h2>
          <h2>Kalash - Officer of Events</h2>
-         <h2>Ritvik - Lead of Experimental Sceince and Labs</h2>
+         <h2>Ritvik - Lead of Experimental Science and Labs</h2>
          <h2>Dhruv - Lead of Technology and Engineering</h2>
          <h2>Venkat - Lead of Academic Research and Mastery</h2>
          <h2>Aditi - Fundraising Officer</h2>
@@ -33,6 +33,8 @@ function MTT() {
          <h2>Katherine - Treasurer</h2>
          <h2>Camilo - Secretary</h2>
          <h2>Amelie - Photographer</h2>
+         <h2>Asha - Marketing Manager</h2>
+         <h2>Siddharth - Web Develepor</h2>
           
         </div>
     
